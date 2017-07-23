@@ -1,1 +1,1 @@
-"use strict";
+"use strict";var initP5=function(n){var i=void 0;n.setup=function(){(i=n.createCanvas(n.windowWidth,n.windowHeight,"webgl")).parent($("#canvas-wrap")[0])},n.draw=function(){n.background(7,50)}},myp5=new p5(initP5);
